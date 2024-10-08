@@ -10,6 +10,7 @@ import UIKit
 class ViewController: UIViewController {
 
     var titleLabel = "Welcome To New York"
+    var input : Int = 100
     override func viewDidLoad() {
         super.viewDidLoad()
         let image = UIImage(systemName: "circle")
