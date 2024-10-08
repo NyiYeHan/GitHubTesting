@@ -9,6 +9,7 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    var titleLabel = "hello"
     override func viewDidLoad() {
         super.viewDidLoad()
         let image = UIImage(systemName: "circle")
